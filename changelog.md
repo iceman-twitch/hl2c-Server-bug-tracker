@@ -1,5 +1,11 @@
-# Update
-Fixing
+
+# Update Feb 01 2016
+
+- Added Spawn Menu
+- Added new cvars
+- Added spawn list
+- Changed weapon spawn in gm_flatgrass
+- Changed weapon tracers and muzzleflashes
 
 # Update Jan 31 2016
 
