@@ -1,3 +1,10 @@
+# Update Feb 06 2016
+
+- Added new chat tags and colors.
+- Added new function to check main car in ep2 and you wont be able to remove it anymore.
+- Added new checkpoints to avoid player left.
+- Changed weapon_csniper_hl2c added crosshair removed CSS zoom.
+- Changed Halo to disable because caused FPS drop.
 
 # Update Feb 01 2016
 
