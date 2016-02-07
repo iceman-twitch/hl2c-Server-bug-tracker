@@ -7,6 +7,9 @@
 - Changed Model Menu button postion from Admin panel to Options in Half-Life 2 Campaign Menu.
 - Changed follow on barney in some certain maps.
 - Changed Spawnmenu option.
+- Fixed issues in map d3_c17_07 where Alyx skipped scripts if she force out from the trigger.
+- Added new entity: barney teleporter to force barney anywhere if he go away by unknown reason.
+- Added new entity: Map Fail to force the map restart if players fail an event or an important npc die.
 
 # Update Feb 06 2016
 
