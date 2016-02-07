@@ -1,3 +1,12 @@
+# Update Feb 07 2016
+
+- Added new chat ads.
+- Added new function to scale player difficulty on some npcs HP.
+- Added new checkpoints to avoid player stuck.
+- Added new buttons to the Admin panel: Force Lobby, Force Nextmap, Force Restart.
+- Changed follow on barney in some certain maps.
+- Changed Spawnmenu option.
+
 # Update Feb 06 2016
 
 - Added new chat tags and colors.
