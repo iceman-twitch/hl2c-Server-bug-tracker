@@ -4,6 +4,7 @@
 - Added new function to scale player difficulty on some npcs HP.
 - Added new checkpoints to avoid player stuck.
 - Added new buttons to the Admin panel: Force Lobby, Force Nextmap, Force Restart.
+- Changed Model Menu button postion from Admin panel to Options in Half-Life 2 Campaign Menu.
 - Changed follow on barney in some certain maps.
 - Changed Spawnmenu option.
 
