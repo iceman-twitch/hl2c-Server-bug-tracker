@@ -1,3 +1,14 @@
+# Update Feb 08 2016
+
+- Added new entity trigger_airboatgun_hl2c to give players weapon on touch the entity.
+- Added new spawn and Ending in ep1_c17_00 to fix crash and mark ingame.
+- Added new checkpoints in ep1_citadel_04
+- Added new checkpoint in d3_c17_13 to force players to the rooftop.
+- Removed useless checkpoints.
+- Removed useless item_suit and weapon_physcannon entities in ep1_c17_00
+- Changed Spawnmenu for Admins.
+- Spawnmenu under development so it won't appear as you wanted.
+
 # Update Feb 07 2016
 
 - Added new chat ads.
