@@ -1,3 +1,14 @@
+# Update Feb 24 2016
+
+- New Maps
+- Some Fixed Bugs
+- New Shop
+- New Xp Bar
+- Boss Hp Bar
+- Aux Power Bar
+- Changed damages on weapons.
+- New Function in Admin Menu
+
 # Update Feb 08 2016
 
 - Added new entity trigger_airboatgun_hl2c to give players weapon on touch the entity.
