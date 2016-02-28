@@ -1,3 +1,13 @@
+# Update Feb 28 2016
+
+- Some Fixed Bugs.
+- Changed damages on weapons.
+- Fixed point_viewcontrol.
+- Working better d3_breen_01.
+- Added new weapons and ammo.
+- Some difficulty changes.
+- Added waiting for players function for d1_trainstation_01.
+
 # Update Feb 24 2016
 
 - New Maps
