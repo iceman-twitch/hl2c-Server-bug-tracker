@@ -1,7 +1,7 @@
 # Update March 2nd 2016
 
-- Fixing bugs with some maps.
-- Fixing point_viewcontrol.
+- Fixed bugs with some maps.
+- Fixed point_viewcontrol.
 - Added new entity.
 - New Restart and Golobby Functions.
 - New maps in lobby and some old maps has blocked due to bugs -.-
