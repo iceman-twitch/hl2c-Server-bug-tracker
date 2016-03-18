@@ -1,3 +1,10 @@
+# Update March 18th 2016
+
+- Fixed bugs with some maps.
+- Fixed point_viewcontrol.
+- Added new entity.
+- New maps in lobby
+
 # Update March 2nd 2016
 
 - Fixed bugs with some maps.
