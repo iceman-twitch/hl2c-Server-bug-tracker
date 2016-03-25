@@ -1,3 +1,17 @@
+# Update March 24th 2016
+
+- Fixed bugs with some maps.
+- Fixed point_viewcontrol.
+- Added new entity.
+- Added new functions.
+- New spawn system.
+- Added ragdoll/weapon maneger.
+- Fixed custom triggers.
+- Added info_spawn_alltypes.
+- Added a new custom display text and timer.
+- New hl2 mod maps support.
+- New maps in lobby
+
 # Update March 18th 2016
 
 - Fixed bugs with some maps.
